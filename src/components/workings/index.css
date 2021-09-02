@@ -1,0 +1,32 @@
+.step {
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+}
+
+.steps > h3 {
+    width: 100%;
+    text-align: center;
+}
+
+.step > p {
+    font-size: 1.0em;
+    margin-top: -0.8em;
+    
+}
+
+.step > h4 {
+    font-size: 1.0em;
+}
+
+.steps > div {
+    width: 100%;
+    justify-content: space-between;
+}
+.steps img{
+    margin: auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
