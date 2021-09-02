@@ -12,7 +12,7 @@ export default class Provider extends React.Component {
   state = {
     ctx: {
       tokenAddress: "",
-      selected: "ethereum",
+      selected: "hpb",
       url: "",
       auth: false,
       loading: false,
